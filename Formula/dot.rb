@@ -1,8 +1,8 @@
 class Dot < Formula
   desc "Dotfile Manager"
   homepage "https://github.com/ysdexlic/dot"
-  url "https://github.com/ysdexlic/dot/archive/v0.1.4.tar.gz"
-  sha256 "b6c70b78df7eb820bdea39244abaa4ebcf8b9dacc4216579abab0f18a153a3ed"
+  url "https://github.com/ysdexlic/dot/archive/v0.1.5.tar.gz"
+  sha256 "d3df407b4326f6b6e57099e55deb27aff4c0998d2a441251fd3a11a9f8a4456f"
   license "MIT"
   head "https://github.com/ysdexlic/dot.git"
 
