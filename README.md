@@ -1,10 +1,21 @@
 # Ysdexlic Formulae
 
-## How do I install these formulae?
+## Usage
 
-`brew install ysdexlic/formulae/<formula>`
+Install formulae listed in the `Formula` directory:
+```bash
+brew install ysdexlic/formulae/<formula>
+```
 
-Or `brew tap ysdexlic/formulae` and then `brew install <formula>`.
+This is equivalent to running:
+```bash
+brew tap ysdexlic/formulae
+```
+
+And then running:
+```bash
+brew install <formula>
+```
 
 ## Documentation
 
